@@ -5,3 +5,6 @@ numpy
 pypdf
 pymupdf
 ipykernel
+sentence-transformers
+faiss-cpu
+chromadb
